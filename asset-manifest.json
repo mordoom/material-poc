@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/material-poc/static/css/main.a026e173.chunk.css",
+    "main.js": "/material-poc/static/js/main.3f0cc7ed.chunk.js",
+    "main.js.map": "/material-poc/static/js/main.3f0cc7ed.chunk.js.map",
+    "runtime-main.js": "/material-poc/static/js/runtime-main.abf67ff9.js",
+    "runtime-main.js.map": "/material-poc/static/js/runtime-main.abf67ff9.js.map",
+    "static/js/2.2acc9a78.chunk.js": "/material-poc/static/js/2.2acc9a78.chunk.js",
+    "static/js/2.2acc9a78.chunk.js.map": "/material-poc/static/js/2.2acc9a78.chunk.js.map",
+    "index.html": "/material-poc/index.html",
+    "precache-manifest.e0857e1418424eb0be02f1e7ddbc4a0e.js": "/material-poc/precache-manifest.e0857e1418424eb0be02f1e7ddbc4a0e.js",
+    "service-worker.js": "/material-poc/service-worker.js",
+    "static/css/main.a026e173.chunk.css.map": "/material-poc/static/css/main.a026e173.chunk.css.map",
+    "static/js/2.2acc9a78.chunk.js.LICENSE": "/material-poc/static/js/2.2acc9a78.chunk.js.LICENSE",
+    "static/media/App.css": "/material-poc/static/media/Gordita Regular.1af86f05.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abf67ff9.js",
+    "static/js/2.2acc9a78.chunk.js",
+    "static/css/main.a026e173.chunk.css",
+    "static/js/main.3f0cc7ed.chunk.js"
+  ]
+}
